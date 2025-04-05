@@ -1,0 +1,16 @@
+C:\Users\bmore\Desktop\2025 Segundo semestre Visual Code\Practica 3\bin\Debug\net8.0-windows\Practica 3.exe
+C:\Users\bmore\Desktop\2025 Segundo semestre Visual Code\Practica 3\bin\Debug\net8.0-windows\Practica 3.deps.json
+C:\Users\bmore\Desktop\2025 Segundo semestre Visual Code\Practica 3\bin\Debug\net8.0-windows\Practica 3.runtimeconfig.json
+C:\Users\bmore\Desktop\2025 Segundo semestre Visual Code\Practica 3\bin\Debug\net8.0-windows\Practica 3.dll
+C:\Users\bmore\Desktop\2025 Segundo semestre Visual Code\Practica 3\bin\Debug\net8.0-windows\Practica 3.pdb
+C:\Users\bmore\Desktop\2025 Segundo semestre Visual Code\Practica 3\obj\Debug\net8.0-windows\Practica_3.Form1.resources
+C:\Users\bmore\Desktop\2025 Segundo semestre Visual Code\Practica 3\obj\Debug\net8.0-windows\Practica 3.csproj.GenerateResource.cache
+C:\Users\bmore\Desktop\2025 Segundo semestre Visual Code\Practica 3\obj\Debug\net8.0-windows\Practica 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bmore\Desktop\2025 Segundo semestre Visual Code\Practica 3\obj\Debug\net8.0-windows\Practica 3.AssemblyInfoInputs.cache
+C:\Users\bmore\Desktop\2025 Segundo semestre Visual Code\Practica 3\obj\Debug\net8.0-windows\Practica 3.AssemblyInfo.cs
+C:\Users\bmore\Desktop\2025 Segundo semestre Visual Code\Practica 3\obj\Debug\net8.0-windows\Practica 3.csproj.CoreCompileInputs.cache
+C:\Users\bmore\Desktop\2025 Segundo semestre Visual Code\Practica 3\obj\Debug\net8.0-windows\Practica 3.dll
+C:\Users\bmore\Desktop\2025 Segundo semestre Visual Code\Practica 3\obj\Debug\net8.0-windows\refint\Practica 3.dll
+C:\Users\bmore\Desktop\2025 Segundo semestre Visual Code\Practica 3\obj\Debug\net8.0-windows\Practica 3.pdb
+C:\Users\bmore\Desktop\2025 Segundo semestre Visual Code\Practica 3\obj\Debug\net8.0-windows\Practica 3.genruntimeconfig.cache
+C:\Users\bmore\Desktop\2025 Segundo semestre Visual Code\Practica 3\obj\Debug\net8.0-windows\ref\Practica 3.dll
