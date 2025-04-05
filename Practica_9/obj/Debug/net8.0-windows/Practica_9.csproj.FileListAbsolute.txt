@@ -1,0 +1,16 @@
+C:\Users\bmore\Desktop\2025 Segundo semestre Visual Code\For While Do\Practica_9\bin\Debug\net8.0-windows\Practica_9.exe
+C:\Users\bmore\Desktop\2025 Segundo semestre Visual Code\For While Do\Practica_9\bin\Debug\net8.0-windows\Practica_9.deps.json
+C:\Users\bmore\Desktop\2025 Segundo semestre Visual Code\For While Do\Practica_9\bin\Debug\net8.0-windows\Practica_9.runtimeconfig.json
+C:\Users\bmore\Desktop\2025 Segundo semestre Visual Code\For While Do\Practica_9\bin\Debug\net8.0-windows\Practica_9.dll
+C:\Users\bmore\Desktop\2025 Segundo semestre Visual Code\For While Do\Practica_9\bin\Debug\net8.0-windows\Practica_9.pdb
+C:\Users\bmore\Desktop\2025 Segundo semestre Visual Code\For While Do\Practica_9\obj\Debug\net8.0-windows\Practica_9.Form1.resources
+C:\Users\bmore\Desktop\2025 Segundo semestre Visual Code\For While Do\Practica_9\obj\Debug\net8.0-windows\Practica_9.csproj.GenerateResource.cache
+C:\Users\bmore\Desktop\2025 Segundo semestre Visual Code\For While Do\Practica_9\obj\Debug\net8.0-windows\Practica_9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bmore\Desktop\2025 Segundo semestre Visual Code\For While Do\Practica_9\obj\Debug\net8.0-windows\Practica_9.AssemblyInfoInputs.cache
+C:\Users\bmore\Desktop\2025 Segundo semestre Visual Code\For While Do\Practica_9\obj\Debug\net8.0-windows\Practica_9.AssemblyInfo.cs
+C:\Users\bmore\Desktop\2025 Segundo semestre Visual Code\For While Do\Practica_9\obj\Debug\net8.0-windows\Practica_9.csproj.CoreCompileInputs.cache
+C:\Users\bmore\Desktop\2025 Segundo semestre Visual Code\For While Do\Practica_9\obj\Debug\net8.0-windows\Practica_9.dll
+C:\Users\bmore\Desktop\2025 Segundo semestre Visual Code\For While Do\Practica_9\obj\Debug\net8.0-windows\refint\Practica_9.dll
+C:\Users\bmore\Desktop\2025 Segundo semestre Visual Code\For While Do\Practica_9\obj\Debug\net8.0-windows\Practica_9.pdb
+C:\Users\bmore\Desktop\2025 Segundo semestre Visual Code\For While Do\Practica_9\obj\Debug\net8.0-windows\Practica_9.genruntimeconfig.cache
+C:\Users\bmore\Desktop\2025 Segundo semestre Visual Code\For While Do\Practica_9\obj\Debug\net8.0-windows\ref\Practica_9.dll
