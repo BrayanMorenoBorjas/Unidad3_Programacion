@@ -1,0 +1,16 @@
+C:\Users\bmore\Desktop\2025 Segundo semestre Visual Code\For While Do\Practica_11\bin\Debug\net8.0-windows\Practica_11.exe
+C:\Users\bmore\Desktop\2025 Segundo semestre Visual Code\For While Do\Practica_11\bin\Debug\net8.0-windows\Practica_11.deps.json
+C:\Users\bmore\Desktop\2025 Segundo semestre Visual Code\For While Do\Practica_11\bin\Debug\net8.0-windows\Practica_11.runtimeconfig.json
+C:\Users\bmore\Desktop\2025 Segundo semestre Visual Code\For While Do\Practica_11\bin\Debug\net8.0-windows\Practica_11.dll
+C:\Users\bmore\Desktop\2025 Segundo semestre Visual Code\For While Do\Practica_11\bin\Debug\net8.0-windows\Practica_11.pdb
+C:\Users\bmore\Desktop\2025 Segundo semestre Visual Code\For While Do\Practica_11\obj\Debug\net8.0-windows\Practica_11.Form1.resources
+C:\Users\bmore\Desktop\2025 Segundo semestre Visual Code\For While Do\Practica_11\obj\Debug\net8.0-windows\Practica_11.csproj.GenerateResource.cache
+C:\Users\bmore\Desktop\2025 Segundo semestre Visual Code\For While Do\Practica_11\obj\Debug\net8.0-windows\Practica_11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bmore\Desktop\2025 Segundo semestre Visual Code\For While Do\Practica_11\obj\Debug\net8.0-windows\Practica_11.AssemblyInfoInputs.cache
+C:\Users\bmore\Desktop\2025 Segundo semestre Visual Code\For While Do\Practica_11\obj\Debug\net8.0-windows\Practica_11.AssemblyInfo.cs
+C:\Users\bmore\Desktop\2025 Segundo semestre Visual Code\For While Do\Practica_11\obj\Debug\net8.0-windows\Practica_11.csproj.CoreCompileInputs.cache
+C:\Users\bmore\Desktop\2025 Segundo semestre Visual Code\For While Do\Practica_11\obj\Debug\net8.0-windows\Practica_11.dll
+C:\Users\bmore\Desktop\2025 Segundo semestre Visual Code\For While Do\Practica_11\obj\Debug\net8.0-windows\refint\Practica_11.dll
+C:\Users\bmore\Desktop\2025 Segundo semestre Visual Code\For While Do\Practica_11\obj\Debug\net8.0-windows\Practica_11.pdb
+C:\Users\bmore\Desktop\2025 Segundo semestre Visual Code\For While Do\Practica_11\obj\Debug\net8.0-windows\Practica_11.genruntimeconfig.cache
+C:\Users\bmore\Desktop\2025 Segundo semestre Visual Code\For While Do\Practica_11\obj\Debug\net8.0-windows\ref\Practica_11.dll
