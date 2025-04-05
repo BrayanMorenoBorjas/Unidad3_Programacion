@@ -1,0 +1,17 @@
+C:\Users\bmore\Desktop\2025 Segundo semestre Visual Code\Instalación y Practicas\Practica 1\bin\Debug\net8.0-windows\Practica 1.exe
+C:\Users\bmore\Desktop\2025 Segundo semestre Visual Code\Instalación y Practicas\Practica 1\bin\Debug\net8.0-windows\Practica 1.deps.json
+C:\Users\bmore\Desktop\2025 Segundo semestre Visual Code\Instalación y Practicas\Practica 1\bin\Debug\net8.0-windows\Practica 1.runtimeconfig.json
+C:\Users\bmore\Desktop\2025 Segundo semestre Visual Code\Instalación y Practicas\Practica 1\bin\Debug\net8.0-windows\Practica 1.dll
+C:\Users\bmore\Desktop\2025 Segundo semestre Visual Code\Instalación y Practicas\Practica 1\bin\Debug\net8.0-windows\Practica 1.pdb
+C:\Users\bmore\Desktop\2025 Segundo semestre Visual Code\Instalación y Practicas\Practica 1\obj\Debug\net8.0-windows\Practica_1.Gif_Animado.resources
+C:\Users\bmore\Desktop\2025 Segundo semestre Visual Code\Instalación y Practicas\Practica 1\obj\Debug\net8.0-windows\Practica_1.Properties.Resources.resources
+C:\Users\bmore\Desktop\2025 Segundo semestre Visual Code\Instalación y Practicas\Practica 1\obj\Debug\net8.0-windows\Practica 1.csproj.GenerateResource.cache
+C:\Users\bmore\Desktop\2025 Segundo semestre Visual Code\Instalación y Practicas\Practica 1\obj\Debug\net8.0-windows\Practica 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bmore\Desktop\2025 Segundo semestre Visual Code\Instalación y Practicas\Practica 1\obj\Debug\net8.0-windows\Practica 1.AssemblyInfoInputs.cache
+C:\Users\bmore\Desktop\2025 Segundo semestre Visual Code\Instalación y Practicas\Practica 1\obj\Debug\net8.0-windows\Practica 1.AssemblyInfo.cs
+C:\Users\bmore\Desktop\2025 Segundo semestre Visual Code\Instalación y Practicas\Practica 1\obj\Debug\net8.0-windows\Practica 1.csproj.CoreCompileInputs.cache
+C:\Users\bmore\Desktop\2025 Segundo semestre Visual Code\Instalación y Practicas\Practica 1\obj\Debug\net8.0-windows\Practica 1.dll
+C:\Users\bmore\Desktop\2025 Segundo semestre Visual Code\Instalación y Practicas\Practica 1\obj\Debug\net8.0-windows\refint\Practica 1.dll
+C:\Users\bmore\Desktop\2025 Segundo semestre Visual Code\Instalación y Practicas\Practica 1\obj\Debug\net8.0-windows\Practica 1.pdb
+C:\Users\bmore\Desktop\2025 Segundo semestre Visual Code\Instalación y Practicas\Practica 1\obj\Debug\net8.0-windows\Practica 1.genruntimeconfig.cache
+C:\Users\bmore\Desktop\2025 Segundo semestre Visual Code\Instalación y Practicas\Practica 1\obj\Debug\net8.0-windows\ref\Practica 1.dll
