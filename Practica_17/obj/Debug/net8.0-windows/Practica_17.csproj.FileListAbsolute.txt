@@ -1,0 +1,16 @@
+C:\Users\bmore\Desktop\2025 Segundo semestre Visual Code\Estructura Selecitva Visual\Practica_17\bin\Debug\net8.0-windows\Practica_17.exe
+C:\Users\bmore\Desktop\2025 Segundo semestre Visual Code\Estructura Selecitva Visual\Practica_17\bin\Debug\net8.0-windows\Practica_17.deps.json
+C:\Users\bmore\Desktop\2025 Segundo semestre Visual Code\Estructura Selecitva Visual\Practica_17\bin\Debug\net8.0-windows\Practica_17.runtimeconfig.json
+C:\Users\bmore\Desktop\2025 Segundo semestre Visual Code\Estructura Selecitva Visual\Practica_17\bin\Debug\net8.0-windows\Practica_17.dll
+C:\Users\bmore\Desktop\2025 Segundo semestre Visual Code\Estructura Selecitva Visual\Practica_17\bin\Debug\net8.0-windows\Practica_17.pdb
+C:\Users\bmore\Desktop\2025 Segundo semestre Visual Code\Estructura Selecitva Visual\Practica_17\obj\Debug\net8.0-windows\Practica_17.Form1.resources
+C:\Users\bmore\Desktop\2025 Segundo semestre Visual Code\Estructura Selecitva Visual\Practica_17\obj\Debug\net8.0-windows\Practica_17.csproj.GenerateResource.cache
+C:\Users\bmore\Desktop\2025 Segundo semestre Visual Code\Estructura Selecitva Visual\Practica_17\obj\Debug\net8.0-windows\Practica_17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bmore\Desktop\2025 Segundo semestre Visual Code\Estructura Selecitva Visual\Practica_17\obj\Debug\net8.0-windows\Practica_17.AssemblyInfoInputs.cache
+C:\Users\bmore\Desktop\2025 Segundo semestre Visual Code\Estructura Selecitva Visual\Practica_17\obj\Debug\net8.0-windows\Practica_17.AssemblyInfo.cs
+C:\Users\bmore\Desktop\2025 Segundo semestre Visual Code\Estructura Selecitva Visual\Practica_17\obj\Debug\net8.0-windows\Practica_17.csproj.CoreCompileInputs.cache
+C:\Users\bmore\Desktop\2025 Segundo semestre Visual Code\Estructura Selecitva Visual\Practica_17\obj\Debug\net8.0-windows\Practica_17.dll
+C:\Users\bmore\Desktop\2025 Segundo semestre Visual Code\Estructura Selecitva Visual\Practica_17\obj\Debug\net8.0-windows\refint\Practica_17.dll
+C:\Users\bmore\Desktop\2025 Segundo semestre Visual Code\Estructura Selecitva Visual\Practica_17\obj\Debug\net8.0-windows\Practica_17.pdb
+C:\Users\bmore\Desktop\2025 Segundo semestre Visual Code\Estructura Selecitva Visual\Practica_17\obj\Debug\net8.0-windows\Practica_17.genruntimeconfig.cache
+C:\Users\bmore\Desktop\2025 Segundo semestre Visual Code\Estructura Selecitva Visual\Practica_17\obj\Debug\net8.0-windows\ref\Practica_17.dll
